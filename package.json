@@ -1,0 +1,24 @@
+{
+  "name": "react-footer-bar",
+  "version": "1.0.0",
+  "description": "react-footer-bar for web",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramantemre/react-footer-bar.git"
+  },
+  "keywords": [
+    "react-footer",
+    "footer-bar",
+    "footer"
+  ],
+  "author": "Raman Temre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramantemre/react-footer-bar/issues"
+  },
+  "homepage": "https://github.com/ramantemre/react-footer-bar#readme"
+}
