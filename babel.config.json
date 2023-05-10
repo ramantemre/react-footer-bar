@@ -1,0 +1,29 @@
+{
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "useBuiltIns": "usage",
+        "targets": "> 0.25%, not dead",
+        "corejs": "3.6.5"
+      }
+    ],
+    [
+      "@babel/preset-react",
+      {
+        "flow": false,
+        "typescript": true
+      }
+    ],
+    [
+      "@babel/preset-typescript",
+      {
+        "isTSX": true,
+        "allExtensions": true
+      }
+    ]
+  ],
+  "plugins": [
+    ["@babel/plugin-transform-typescript", { "allowNamespaces": true }]
+  ]
+}
