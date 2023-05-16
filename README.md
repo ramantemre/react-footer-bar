@@ -4,11 +4,11 @@ React Footer Bar is an unique React.js component to provide animation. It is a r
 
 ## Preview
 
-![mainFooter](https://drive.google.com/file/d/1kRAUrDXgPMh3fQTCKaC51hYyBlLvtiX9/view?usp=share_link)
+![mainFooter](https://github.com/ramantemre/react-footer-bar/blob/feat/react-footer-bar/assets/react-footer-bar.png)
 
 ### Animated Preview
 
-![animatedFooter](https://drive.google.com/file/d/1ydLlWv0uWDHwrwNAORZ93M0CuJyjaXVX/view?usp=share_link)
+![animatedFooter](https://github.com/ramantemre/react-footer-bar/blob/feat/react-footer-bar/assets/react-footer-bar.gif)
 
 ## Installation
 
